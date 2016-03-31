@@ -1,4 +1,4 @@
-Copyright 2013 - The CyanogenMod Project
+Copyright 2016 - The Turbo Project
 
 Device configuration for Galaxy S4 (Qualcomm Variants)
 =====================================
