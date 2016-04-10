@@ -23,7 +23,7 @@
 LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter jflte,$(TARGET_DEVICE)),)
-$(error This jflte tree is no longer updated, please the upadted verison here https://github.com/TurboROM-Devices/device_samsung_unified-jflte. Terminating the build because you are dumb as FUCK!!!! sorry, but you just pissed me off....)
+$(error This jflte tree is no longer updated, please use the updated verison here https://github.com/TurboROM-Devices/device_samsung_unified-jflte. Terminating the build because you are dumb as FUCK!!!! sorry, but you just pissed me off....)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
 endif
